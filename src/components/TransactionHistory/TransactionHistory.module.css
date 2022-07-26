@@ -1,0 +1,24 @@
+.history {
+width: 100%;
+    
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.title {
+    
+    background-color: #1c2e60;
+    color: white;
+    
+}
+
+.th {
+    
+    outline: 1px solid grey;
+    padding: 10px 0;
+}
+
+.tbody {
+   
+}
